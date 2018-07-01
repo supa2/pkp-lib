@@ -299,7 +299,7 @@
 	<message key="debug.notes">Notes:</message>
 	<message key="defaultMetric.title">Default Metric</message>
 	<message key="defaultMetric.availableMetrics">Available Metrics</message>
-	<message key="editor.submissionReview.uploadFile">Upload Review File</message>
+	<message key="editor.submissionReview.uploadFile">Upload Reflection File</message>
 	<message key="editor.submissionReview.uploadAttachment">Upload File</message>
 	<message key="email.addAttachment">Add Attachment</message>
 	<message key="email.addBccRecipient">Add BCC</message>
@@ -402,7 +402,7 @@
 	<message key="navigation.tools.importExport">Import/Export</message>
 	<message key="navigation.tools.statistics">Statistics</message>
 	<message key="navigation.browse">Browse</message>
-	<message key="navigation.browseByAuthor">By Author</message>
+	<message key="navigation.browseByAuthor">By Creator</message>
 	<message key="navigation.browseByTitle">By Title</message>
 	<message key="navigation.dashboard">Dashboard</message>
 	<message key="navigation.data">Data</message>
@@ -435,9 +435,9 @@
 	<message key="notification.addedAuditor">Auditor added.</message>
 	<message key="notification.removedAuditor">Auditor removed.</message>
 	<message key="notification.addedQuery">Added Discussion</message>
-	<message key="notification.reviewAcknowledged">Review marked as acknowledged. Email not sent.</message>
+	<message key="notification.reviewAcknowledged">Reflection marked as acknowledged. Email not sent.</message>
 	<message key="notification.reviewerThankedEmail">Thank you email sent to reviewer.</message>
-	<message key="notification.updatedReviewFiles">Review files updated.</message>
+	<message key="notification.updatedReviewFiles">Reflection files updated.</message>
 	<message key="notification.allow">Enable these types of notifications.</message>
 	<message key="notification.addedAnnouncementType">Announcement type added.</message>
 	<message key="notification.editedAnnouncementType">Announcement type edited.</message>
@@ -445,8 +445,8 @@
 	<message key="notification.addedAnnouncement">Announcement added.</message>
 	<message key="notification.editedAnnouncement">Announcement edited.</message>
 	<message key="notification.removedAnnouncement">Announcement removed.</message>
-	<message key="notification.addedAuthor">Author added.</message>
-	<message key="notification.editedAuthor">Author edited.</message>
+	<message key="notification.addedAuthor">Creator added.</message>
+	<message key="notification.editedAuthor">Creator edited.</message>
 	<message key="notification.confirmError">There was an error confirming your subscription.</message>
 	<message key="notification.confirmSuccess">You have been successfully subscribed.</message>
 	<message key="notification.email">Do not send me an email for these types of notifications.</message>
@@ -464,7 +464,7 @@
 	<message key="notification.reminderSent">Your new password has been sent to the email address provided.</message>
 	<message key="notification.savedSubmissionMetadata">Submission metadata saved.</message>
 	<message key="notification.sendNotificationConfirmation">Send notification email to all registered users</message>
-	<message key="search.author">By Author</message>
+	<message key="search.author">By Creator</message>
 	<message key="search.abstract">Abstract</message>
 	<message key="search.advancedFilters">Advanced filters</message>
 	<message key="search.advancedSearchMore">More search options</message>
@@ -501,7 +501,7 @@
 
 	<message key="context.path">Path</message>
 	<message key="review.ensuringBlindReview">Ensuring a Blind Review</message>
-	<message key="grid.action.showReviewPolicy">Read the current review policy</message>
+	<message key="grid.action.showReviewPolicy">Read the current reflection policy</message>
 	<message key="grid.action.deleteNotification">Delete Task</message>
 	<message key="grid.action.markNew">Mark New</message>
 	<message key="grid.action.markRead">Mark Read</message>
@@ -516,20 +516,20 @@
 			<li>With PDFs, the authors' names should also be removed from Document Properties found under File on Adobe Acrobat's main menu.</li>
 		</ul>]]>
 	</message>
-	<message key="reviewer.submission.reviewSchedule">Review Schedule</message>
-	<message key="reviewer.submission.reviewRequestDate">Editor's Request</message>
+	<message key="reviewer.submission.reviewSchedule">Reflection Schedule</message>
+	<message key="reviewer.submission.reviewRequestDate">Facilitator's Request</message>
 	<message key="reviewer.submission.responseDueDate">Response Due Date</message>
-	<message key="reviewer.submission.reviewDueDate">Review Due Date</message>
+	<message key="reviewer.submission.reviewDueDate">Reflection Due Date</message>
 	<message key="submission.task.responseDueDate">Response Due Date</message>
 	<message key="navigation.goBack">Go Back</message>
 
-	<message key="notification.addedReviewer">{$reviewerName} was assigned to review this submission and sent an email notification.</message>
-	<message key="notification.addedReviewerNoEmail">{$reviewerName} was assigned to review this submission and was not sent an email notification.</message>
-	<message key="notification.removedReviewer">Reviewer removed.</message>
+	<message key="notification.addedReviewer">{$reviewerName} was assigned as a reflector on this submission and sent an email notification.</message>
+	<message key="notification.addedReviewerNoEmail">{$reviewerName} was assigned as a reflector on this submission and was not sent an email notification.</message>
+	<message key="notification.removedReviewer">Reflector removed.</message>
 	<message key="notification.addedStageParticipant">User added as a stage participant.</message>
 	<message key="notification.type.newAnnouncement">New announcement.</message>
-	<message key="notification.type.reviewAssignment">Review pending.</message>
-	<message key="notification.type.reviewAssignmentUpdated">Review assignment updated.</message>
+	<message key="notification.type.reviewAssignment">Reflection pending.</message>
+	<message key="notification.type.reviewAssignmentUpdated">Reflection assignment updated.</message>
 	<message key="notification.type.auditorRequest">Audit request for "{$file}"</message>
 	<message key="notification.type.allReviewsIn">All reviews are in and a decision is needed in {$stage}.</message>
 	<message key="notification.type.allRevisionsIn">A revised file has been uploaded for your editorial consideration in {$stage}.</message>

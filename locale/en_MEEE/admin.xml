@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ReflectionReflection<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE locale SYSTEM "../../dtd/locale.dtd">
 
 <!--
@@ -56,7 +56,7 @@
 	<message key="admin.scheduledTask.downloadLog">Your {$softwareName} installation automatically executed and finished this task and you can download the log file here: {$url}</message>
 	<message key="admin.scheduledTask.confirmClearLogs">Are you sure you want to delete all scheduled task execution logs?</message>
 	<message key="admin.scheduledTask.clearLogs">Clear Scheduled Task Execution Logs</message>
-	<message key="admin.scheduledTask.reviewReminder">Review reminder</message>
+	<message key="admin.scheduledTask.reviewReminder">Reflection reminder</message>
 	<message key="admin.scheduledTask.subscriptionExpiryReminder">Subscription expiry reminder</message>
 	<message key="admin.server.apacheVersion">Apache version</message>
 	<message key="admin.server.dbDriver">Database driver</message>
