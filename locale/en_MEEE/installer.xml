@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
+<locale name="en_MEEE" full_name=“Murmurations Language”>
 	<message key="installer.additionalLocales">Additional locales</message>
 	<message key="installer.administratorAccount">Administrator Account</message>
 	<message key="installer.administratorAccountInstructions">This user account will become the site administrator and have complete access to the system. Additional user accounts can be created after installation.</message>

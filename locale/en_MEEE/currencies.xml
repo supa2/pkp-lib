@@ -11,7 +11,7 @@
   * Currencies data XML file. Based on ISO 4217:2015.
   -->
 
-<currencies locale="en_US">
+<currencies locale="en_MEEE">
 	<currency name="US dollar" code_alpha="USD" code_numeric="840" />
 	<currency name="Euro" code_alpha="EUR" code_numeric="978" />
 	<currency name="Canadian Dollar" code_alpha="CAD" code_numeric="124" />

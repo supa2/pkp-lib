@@ -11,7 +11,7 @@ Creators<?xml version="1.0" encoding="UTF-8"?>
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
+<locale name="en_MEEE" full_name=“Murmurations Language”>
 	<!-- Author Submission -->
 	<message key="author.submit.submissionCitations">Provide a formatted list of references for works cited in this submission. Please separate individual references with a blank line.</message>
 	<message key="author.submission.roundStatus.reviewsReady">New reflections have been submitted and are being considered by the editor.</message>
