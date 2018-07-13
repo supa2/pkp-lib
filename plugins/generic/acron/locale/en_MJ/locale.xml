@@ -12,7 +12,7 @@
   *
   -->
 
-<locale name="en_MEEE" full_name="Murmurations">
+<locale name="en_MJ" full_name="Murmurations">
 	<message key="plugins.generic.acron.name">Acron Plugin</message>
 	<message key="plugins.generic.acron.description">This plugin attempts to reduce the dependance of the application on periodic scheduling tools such as 'cron.'</message>
 	<message key="plugins.generic.acron.enabled">The Acron Plugin has been enabled.</message>
