@@ -11,7 +11,7 @@
   * Localization strings for default settings for setup items.
   -->
 
-<locale name="en_MEEE" full_name=“Murmurations Language”>
+<locale name="en_MJ" full_name=“Murmurations Language”>
 	<!-- Group defaults -->
 	<message key="default.groups.name.siteAdmin">Site Admin</message>
 	<message key="default.groups.plural.siteAdmin">Site Admins</message>

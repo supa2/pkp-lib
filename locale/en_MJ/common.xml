@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_MEEE" full_name=“Murmurations Language”>
+<locale name="en_MJ" full_name=“Murmurations Language”>
 	<message key="common.publicKnowledgeProject">Public Knowledge Project</message>
 	<message key="common.currentStyleSheet">Current Stylesheet</message>
 	<message key="about.description">Description</message>

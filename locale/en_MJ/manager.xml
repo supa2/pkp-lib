@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_MEEE" full_name=“Murmurations Language”>
+<locale name="en_MJ" full_name=“Murmurations Language”>
 	<!-- Website settings -->
 	<message key="manager.website.information">Information</message>
 	<message key="manager.website.appearance">Appearance</message>

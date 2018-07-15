@@ -11,7 +11,7 @@
   * Localization strings.
   -->
 
-<locale name="en_MEEE" full_name="Murmurations">
+<locale name="en_MJ" full_name="Murmurations">
 	<message key="plugins.metadata.openurl10.displayName">OpenURL 1.0 meta-data</message>
 	<message key="plugins.metadata.openurl10.description">Contributes OpenURL 1.0 schemas and application adapters.</message>
 </locale>
